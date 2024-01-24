@@ -2,9 +2,6 @@
 
 Sou programadora backend a 5 anos e blogueirinha nas redes sociais [@spacecoding](https://www.instagram.com/spacecoding/). Minha curiosidade é sintonizada em várias frequências. Exploro diferentes universos e conecto minhas experiências com o universo da programação e tecnologia. Meu maior sonho é impactar vidas de forma positiva através da tecnologia. Para isso eu compartilho conhecimentos em uma linguagem acessível promovendo o rompimento de barreiras, o empoderamento tecnológico e reconstruindo a tecnologia como um espaço acessível para todas pessoas.
 
-
-Tu me encontra:
-
 - Eu tenho uma newsletter semanal com dicas de carreira no [Substack](https://spacecoding.substack.com/) e [Linkedin](https://www.linkedin.com/newsletters/7121622862569832448/)
 - Diariamente em dicas rápidas sobre programação no [Instagram](https://www.instagram.com/spacecoding/).
 - Reflexões e oportunidades na tecnologia no [Twitter](https://twitter.com/sspacecoding).
@@ -19,8 +16,6 @@ Tu me encontra:
 ### Hello!🖖 🇺🇸
 
 I've been a backend programmer for 5 years and a blogger on social media [@spacecoding](https://www.instagram.com/spacecoding/). I explore different universes and connect my experiences with the world of programming and technology. My biggest dream is to positively impact lives through technology. To achieve this, I share knowledge in an accessible language, promoting the breaking of barriers, technological empowerment, and reconstructing technology as a space accessible to everyone. 🖖
-
-You can find me:
 
 - I have a weekly newsletter with career tips on [Substack](https://spacecoding.substack.com/) and [Linkedin](https://www.linkedin.com/newsletters/7121622862569832448/)
 - Daily with quick programming tips on [Instagram](https://www.instagram.com/spacecoding/).
